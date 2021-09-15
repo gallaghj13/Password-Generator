@@ -10,7 +10,7 @@ I started by creating the questions that would allow the user to specify the len
 The user clicks on the Generate Password button, which brings up the prompts that will be the criteria for the password:
 ![](./assets/images/PasswordPhoto1.png)
 
-Then the password produces a random password based on those criteria and displays it in the text box:
+Then the website produces a random password based on those criteria and displays it in the text box:
 ![](./assets/images/PasswordPhoto2.png)
 
 ## Credits
