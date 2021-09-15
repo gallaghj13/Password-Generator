@@ -8,10 +8,10 @@ I started by creating the questions that would allow the user to specify the len
 
 ## Usage
 The user clicks on the Generate Password button, which brings up the prompts that will be the criteria for the password:
-![](assets/images/Screen Shot 2021-09-15 at 1.10.03 PM.png)
+![](./assets/images/PasswordPhoto1.png)
 
 Then the password produces a random password based on those criteria and displays it in the text box:
-![](assets/images/Screen Shot 2021-09-15 at 1.16.53 PM.png)
+![](./assets/images/PasswordPhoto2.png)
 
 ## Credits
 - VSCode
